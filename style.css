@@ -11,6 +11,7 @@ h1 {
 nav {
   text-align: center;
 }
+
 nav a {
   padding-left: 10px;
   padding-right: 10px;
@@ -19,4 +20,9 @@ nav a {
 
 figure {
   text-align: center;
+}
+
+figcaption {
+  text-align: center;
+  font-size: smaller; 
 }
