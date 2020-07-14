@@ -8,8 +8,11 @@ h1 {
   text-align: center;
 }
 
-nav {
+nav a {
   text-align: center;
+  padding-left: 10px;
+  padding-right: 10px on their left and right sides. 
+  In addition, change their background color to something of your choosing. We chose grey!
 }
 
 figure {
