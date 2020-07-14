@@ -11,8 +11,8 @@ h1 {
 nav a {
   text-align: center;
   padding-left: 10px;
-  padding-right: 10px on their left and right sides. 
-  In addition, change their background color to something of your choosing. We chose grey!
+  padding-right: 10px;
+  background-color: grey;
 }
 
 figure {
