@@ -15,5 +15,7 @@ nav {
 figure {
   width: 100px;
   height: 100px;
-  display: inline-block;
+  position: absolute;
+  left: 50%;
+  margin-left: -50px;
 }
