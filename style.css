@@ -1,9 +1,9 @@
 body {
   width: 100%;
   height: 100%;
-  margin: 0;
+  margin: auto; /* centers our element) */
 }
 
 h1 {
-  margin: auto; /* centers our element) */
+
 }
