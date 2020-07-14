@@ -27,7 +27,9 @@ figcaption {
   font-size: smaller;
 }
 section {
-  text-align: center;
+  width: 100px;
+  height: 100px;
+  display: inline-block;
 }
 #featured-property p {
   width: 800px;
